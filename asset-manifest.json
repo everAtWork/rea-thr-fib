@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/automatic-octo-funicular/static/css/main.deb237e5.chunk.css",
+    "main.js": "/automatic-octo-funicular/static/js/main.83dec604.chunk.js",
+    "main.js.map": "/automatic-octo-funicular/static/js/main.83dec604.chunk.js.map",
+    "runtime-main.js": "/automatic-octo-funicular/static/js/runtime-main.d0b89f97.js",
+    "runtime-main.js.map": "/automatic-octo-funicular/static/js/runtime-main.d0b89f97.js.map",
+    "static/js/2.5c89f186.chunk.js": "/automatic-octo-funicular/static/js/2.5c89f186.chunk.js",
+    "static/js/2.5c89f186.chunk.js.map": "/automatic-octo-funicular/static/js/2.5c89f186.chunk.js.map",
+    "static/js/3.6308283d.chunk.js": "/automatic-octo-funicular/static/js/3.6308283d.chunk.js",
+    "static/js/3.6308283d.chunk.js.map": "/automatic-octo-funicular/static/js/3.6308283d.chunk.js.map",
+    "index.html": "/automatic-octo-funicular/index.html",
+    "static/css/main.deb237e5.chunk.css.map": "/automatic-octo-funicular/static/css/main.deb237e5.chunk.css.map",
+    "static/js/2.5c89f186.chunk.js.LICENSE.txt": "/automatic-octo-funicular/static/js/2.5c89f186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0b89f97.js",
+    "static/js/2.5c89f186.chunk.js",
+    "static/css/main.deb237e5.chunk.css",
+    "static/js/main.83dec604.chunk.js"
+  ]
+}
